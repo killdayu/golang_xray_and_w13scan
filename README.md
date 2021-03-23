@@ -1,1 +1,2 @@
 # golang_xray_and_w13scan
+可以同时联动xray和w13scan
